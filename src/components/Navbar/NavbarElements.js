@@ -1,6 +1,6 @@
 import { findByLabelText, getByDisplayValue } from "@testing-library/react";
 import styled from 'styled-components';
-import {NavLink as Link } from 'react-router-dom';
+import { NavLink as Link } from 'react-router-dom';
 
 export const Nav = styled.nav `
     background: red;
